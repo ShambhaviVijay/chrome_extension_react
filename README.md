@@ -16,5 +16,7 @@ See how to load the extension: https://docs.plasmo.com/framework/workflows/dev#l
 For further guidance, [visit our Documentation](https://docs.plasmo.com/).
 
 ## Drive link for video 
-[![Video Title](https://drive.google.com/drive/folders/1MXSeTZi50787iNgChLJQMedkRq0l9ogX)](https://drive.google.com/drive/folders/1MXSeTZi50787iNgChLJQMedkRq0l9ogX/view)
+[Link to Google Drive Folder](https://drive.google.com/drive/folders/1MXSeTZi50787iNgChLJQMedkRq0l9ogX)
+
+[Link to Google Drive Folder](https://drive.google.com/drive/folders/1MXSeTZi50787iNgChLJQMedkRq0l9ogX)
 
